@@ -36,7 +36,7 @@ vote_weight={'g1':[1,2,3,4], 'g2':[1,4,2,5,6,4],'g3':[1,4,2,5,6,3],'g4':[1,2,3,4
 	'g19':[1,2,3,4], 'g20':[1,4,2,5,6,4],'g21':[1,4,2,5,6,3], 'g22':[1,2,3,4], 'g23':[1,4,2,5,6,4],'g24':[1,4,2,5,6,3],
 	'g25':[1,2,3,4]}
 q_user='g'
-nearest_neightbour =8
+nearest_neightbour =5
 
 
 def k_nearest_neighbour(data,user,weight,n):
